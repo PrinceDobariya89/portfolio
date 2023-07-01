@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage":"https://princedobariya89.github.io/portfolio/",
   "icons": [
     {
       "src": "favicon.ico",
